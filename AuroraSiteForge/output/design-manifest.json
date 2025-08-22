@@ -1,0 +1,9 @@
+{
+  "backendPort": "8080",
+  "brand": "Aurora X",
+  "palette": {"secondary":"#ffb86c","background":"#0b1220","accent":"#0f172a","primary":"#111827"},
+  "seed": 1337,
+  "slug": "aurora-x",
+  "timestampIso": "2025-08-22T00:11:33.989042Z",
+  "typography": {"mono":"JetBrains Mono","heading":"Manrope","body":"Inter"}
+}

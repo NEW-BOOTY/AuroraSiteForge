@@ -1,0 +1,3 @@
+:root{ --primary: #07203c; --secondary: #0f172a; --bg: #f472b6; }
+body{ margin:0; font-family: Sora; background:var(--bg); color:var(--secondary); padding:2rem; }
+.hero{ max-width:900px; margin:0 auto; }

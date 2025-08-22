@@ -1,0 +1,2 @@
+:root{ --primary: #7c3aed; --secondary: #ef4444; --bg: #ef4444; }
+body{ margin:0; font-family: Inter; background:var(--bg); color:var(--secondary); padding:2rem; }
